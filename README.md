@@ -3,7 +3,7 @@
 Hello!
 
 This is a console version of popular game [Hangman](https://en.wikipedia.org/wiki/Hangman_(game)). Made in Ruby 🔥
-Please note: only russian in game language supported.
+<br>Please note: only russian in game language supported.
 
 ## How to use
 One simple command in root directory:
